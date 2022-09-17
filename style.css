@@ -1,0 +1,37 @@
+.circleR {
+    background: red;
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    margin-top: 18px;
+    border: 2px solid #0F0E0D;
+}
+.circleY {
+    background: yellow;
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;;
+    margin-top: 20px;
+    border: 2px solid #0F0E0D;
+}
+.circleG {
+    background: #456BD9;
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    margin-top: 20px;
+    border: 2px solid #0F0E0D;
+}
+
+.background {
+    margin-top: 20px;
+    height: 328px;
+    width: 150px;
+    margin-left: 20px;
+    background: #D6D6D6FF;
+    border-radius: 25px;
+    border: 2px solid #0F0E0D;
+}
+.circlesStyle{
+    margin-left: 30px;
+}

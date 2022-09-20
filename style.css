@@ -3,15 +3,13 @@
     border-radius: 50%;
     height: 80px;
     width: 80px;
-    margin-top: 18px;
     border: 2px solid #0F0E0D;
 }
 .circleY {
     background: yellow;
     border-radius: 50%;
     height: 80px;
-    width: 80px;;
-    margin-top: 20px;
+    width: 80px;
     border: 2px solid #0F0E0D;
 }
 .circleG {
@@ -19,19 +17,23 @@
     border-radius: 50%;
     height: 80px;
     width: 80px;
-    margin-top: 20px;
     border: 2px solid #0F0E0D;
 }
-
+.position {
+    position: relative;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.transform {
+    margin-bottom: 15px;
+    transform: translate(30px, 15px);
+}
 .background {
     margin-top: 20px;
-    height: 328px;
+    height: 315px;
     width: 150px;
     margin-left: 20px;
     background: #D6D6D6FF;
     border-radius: 25px;
     border: 2px solid #0F0E0D;
-}
-.circlesStyle{
-    margin-left: 30px;
 }
